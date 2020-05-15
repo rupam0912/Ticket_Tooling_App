@@ -1591,7 +1591,7 @@ pre {
 .form-control {
   display: block;
   width: 100%;
-  height: calc(1.5em + 0.75rem + 2px);
+  /* height: calc(1.5em + 0.75rem + 2px); */
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;
@@ -8316,7 +8316,7 @@ a[data-toggle="collapse"] {
   color: rgba(255, 255, 255, 0.5); }
 
 .form-control {
-  height: 40px !important;
+  /* height: 40px !important; */
   background: #fff;
   color: #000;
   font-size: 13px;
